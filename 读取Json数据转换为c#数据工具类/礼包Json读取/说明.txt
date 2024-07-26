@@ -1,0 +1,8 @@
+简单类  用于自用 可以随便添加
+[数据及其数据类型]：用于礼包数据读取 也可以用于其他数据读取(修改)
+ string name;//名字
+ string image;//图片
+ string description;//描述
+ int price;//价格
+ string currency;//货币
+ bool isPurchased = false; // 是否已购买
